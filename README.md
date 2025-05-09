@@ -96,3 +96,6 @@ plt.show()
 * The output shows the ideal sampling instances, the flat-top sampled signal, and the reconstructed waveform.
 
 # Hardware experiment output waveform.
+
+![WhatsApp Image 2025-05-09 at 21 12 49_1d636f9a](https://github.com/user-attachments/assets/e531a3d4-5307-466c-ae5b-8eaa42801420)
+
